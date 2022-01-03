@@ -1,5 +1,10 @@
 # Kaggle_Titanic
-Scripts to ML scripts submitted on kaggle
+Scripts to ML scripts submitted on Kaggle for the Titanic competition.
+Titanic Competition:
+https://www.kaggle.com/c/titanic
+Kaggle Profile:
+https://www.kaggle.com/travisadam0313
+
 
 The first pass in this submission only considers 4 variables with NA's in the Age vector manually populated using averages based on passenger class and gender.
 
